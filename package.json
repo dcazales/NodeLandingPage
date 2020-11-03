@@ -1,0 +1,11 @@
+{
+    "name": "app-service-hello-world",
+    "description": "Lets Try This Landing Page",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
